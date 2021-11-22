@@ -4,7 +4,7 @@
 
 ### StreamRs
 
-- aklongmuir
+- aftonsteps
 - aklongmuir
 - crow_data_sci
 - davidjayjackson
@@ -23,6 +23,8 @@
 - unicorn_coder
 - yuka_with_data
 
+### Chat
+
 - isomore
 - jeremy_data
 
@@ -31,6 +33,7 @@
 - ahahron
 - ai_ruth
 - aluumina
+- amongotherstuff
 - call_me_k1
 - georgiewen
 - idle_sikes
@@ -41,6 +44,9 @@
 - peepsofthedeeps
 - sinisterdoodle
 - toastiercereal
+
+
+### Chat
 
 - charlie_kellie
 - treygetmebottlesofrose
