@@ -2,6 +2,10 @@
 
 ## Twitch
 
+- Cats: cuteavalanche
+- Ducks: dashducks
+- Otters: marinemammalrescue
+
 ### StreamRs
 
 - aftonsteps
