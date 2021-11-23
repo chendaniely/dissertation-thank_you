@@ -63,9 +63,10 @@ My on going list of thank yous for my final submission + presentation next month
 - charlie_kellie
 - j3dg
 - kendotommy
+- lexyealdotorg
+- Milena
+- MogyoroX
 - rockstarrudra
 - studycoach
 - treygetmebottlesofrose
-- Milena
-- MogyoroX
 - xvessyy
