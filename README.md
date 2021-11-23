@@ -44,13 +44,11 @@
 - deadwithoutbread
 - georgiewen
 - idle_sikes
-- j3dg
 - jpstudytime
 - miss_barter
 - moh__t
 - nazknows
 - peepsofthedeeps
-- rockstarrudra
 - sinisterdoodle
 - toastiercereal
 - whynotloaf
@@ -61,6 +59,8 @@
 - annapauli_
 - aymanemarocain
 - charlie_kellie
+- j3dg
 - kendotommy
+- rockstarrudra
 - treygetmebottlesofrose
 - MogyoroX
