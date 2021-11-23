@@ -4,6 +4,8 @@ My on going list of thank yous for my final submission + presentation next month
 
 ## Twitch
 
+Spam the emotes!
+
 - Cats: cuteavalanche
 - Ducks: dashducks
 - Otters: marinemammalrescue
