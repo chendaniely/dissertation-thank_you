@@ -2,8 +2,9 @@
 
 My on going list of thank yous for my final submission + presentation next month.
 
-When: Dec 14, 1 PM EST (UTC-5)
-Where: https://www.twitch.tv/chendaniely
+- When: Dec 14, 1 PM EST (UTC-5)
+    - converted to [your time zone](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Dan+Dissertation&iso=20211214T18)
+- Where: https://www.twitch.tv/chendaniely
 
 ## Twitch
 
