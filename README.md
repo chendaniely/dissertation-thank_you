@@ -2,6 +2,9 @@
 
 My on going list of thank yous for my final submission + presentation next month.
 
+When: Dec 14, 1 PM EST (UTC-5)
+Where: https://www.twitch.tv/chendaniely
+
 ## Twitch
 
 Spam the emotes!
