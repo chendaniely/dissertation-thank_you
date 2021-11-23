@@ -65,7 +65,9 @@ Spam the emotes!
 
 - annapauli_
 - aymanemarocain
+- braziliancowgirl
 - charlie_kellie
+- its_ajerome
 - j3dg
 - kendotommy
 - lexyealdotorg
