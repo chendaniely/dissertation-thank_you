@@ -1,5 +1,7 @@
 # dissertation-thank_you
 
+My on going list of thank yous for my final submission + presentation next month.
+
 ## Twitch
 
 - Cats: cuteavalanche
