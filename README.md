@@ -70,8 +70,8 @@ Spam the emotes!
 - braziliancowgirl
 - charlie_kellie
 - dravey82
+- hellojaya
 - its_ajerome
-- jaya
 - j3dg
 - kendotommy
 - leeannikan
