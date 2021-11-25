@@ -71,10 +71,12 @@ Spam the emotes!
 - charlie_kellie
 - dravey82
 - its_ajerome
+- jaya
 - j3dg
 - kendotommy
 - leeannikan
 - lexyealdotorg
+- mileeveli
 - Milena
 - MogyoroX
 - rockstarrudra
