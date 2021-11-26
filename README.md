@@ -66,6 +66,7 @@ Spam the emotes!
 ### Chat
 
 - annapauli_
+- annaoverseas
 - aymanemarocain
 - braziliancowgirl
 - charlie_kellie
