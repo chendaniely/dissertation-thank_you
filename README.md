@@ -23,6 +23,7 @@ Spam the emotes!
 - itsmetoeknee
 - jacquietran
 - jennajrdn
+- jeremy_data
 - kierisi
 - lisadebruine
 - lytebringr
@@ -37,8 +38,8 @@ Spam the emotes!
 
 ### Chat
 
+- cgeffre
 - isomore
-- jeremy_data
 
 ### Co-Working
 
