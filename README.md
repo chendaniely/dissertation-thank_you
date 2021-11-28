@@ -38,8 +38,10 @@ Spam the emotes!
 
 ### Chat
 
+- axel669
 - cgeffre
 - isomore
+- platinumgng
 
 ### Co-Working
 
